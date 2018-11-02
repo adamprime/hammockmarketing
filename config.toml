@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://hammock.marketing/"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Hammock Marketing"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/v2/
@@ -104,4 +104,3 @@ theme = "timer-hugo"
         [[params.footer.social]]
             icon = "ion-social-github"
             link = "https://github.com"
-    

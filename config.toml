@@ -34,10 +34,10 @@ preserveTaxonomyNames = true
     url = "/tags/"
     weight = 3
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
+#  [[menu.main]]
+#    name = "About Hammock Marketing"
+#    url = "/about/"
+#    weight = 4
 
 [params]
     since = 2016

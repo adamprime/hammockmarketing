@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://hammock.marketing/2018/fundraising-is-the-worst/</loc>
+      
+      <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
       <loc>https://hammock.marketing/about/</loc>
       
       <lastmod>2018-11-03T00:00:00+00:00</lastmod>
@@ -13,131 +23,13 @@
     </url>
   
     <url>
-      <loc>https://hammock.marketing/2018/0.48-relnotes/</loc>
+      <loc>https://hammock.marketing/tags/amazonsmile/</loc>
       
-      <lastmod>2018-08-29T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2018/0.47.1-relnotes/</loc>
-      
-      <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       
       
       
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2018/0.47-relnotes/</loc>
-      
-      <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2018/0.46-relnotes/</loc>
-      
-      <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2018/0.45.1-relnotes/</loc>
-      
-      <lastmod>2018-07-25T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2018/0.45-relnotes/</loc>
-      
-      <lastmod>2018-07-22T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2018/0.44-relnotes/</loc>
-      
-      <lastmod>2018-07-13T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2018/0.43-relnotes/</loc>
-      
-      <lastmod>2018-07-09T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2017/http2-server-push-in-hugo/</loc>
-      
-      <lastmod>2017-07-24T18:36:00+02:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2014/creating-a-new-theme/</loc>
-      
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2014/goisforlovers/</loc>
-      
-      <lastmod>2014-07-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2014/hugoisforlovers/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/2014/migrate-from-jekyll/</loc>
-      
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      
-      
+      <priority>0</priority>
       
       
     </url>
@@ -153,9 +45,21 @@
     </url>
   
     <url>
+      <loc>https://hammock.marketing/categories/fundraising/</loc>
+      
+      <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://hammock.marketing/</loc>
       
-      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       
       
       
@@ -165,23 +69,13 @@
     </url>
   
     <url>
-      <loc>https://hammock.marketing/tags/hugo/</loc>
+      <loc>https://hammock.marketing/categories/nonprofit-life/</loc>
       
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       
       
       
       <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/posts/news/</loc>
-      
-      <lastmod>2018-08-29T00:00:00+00:00</lastmod>
-      
-      
       
       
     </url>
@@ -189,19 +83,7 @@
     <url>
       <loc>https://hammock.marketing/posts/</loc>
       
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/categories/releases/</loc>
-      
-      <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       
       
       
@@ -213,7 +95,7 @@
     <url>
       <loc>https://hammock.marketing/tags/</loc>
       
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       
       
       
@@ -223,21 +105,9 @@
     </url>
   
     <url>
-      <loc>https://hammock.marketing/tags/theme/</loc>
+      <loc>https://hammock.marketing/tags/fundraising/</loc>
       
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/categories/uncategorized/</loc>
-      
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       
       
       
@@ -247,81 +117,9 @@
     </url>
   
     <url>
-      <loc>https://hammock.marketing/categories/blog/</loc>
+      <loc>https://hammock.marketing/tags/website/</loc>
       
-      <lastmod>2017-07-24T18:36:00+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/tags/development/</loc>
-      
-      <lastmod>2014-07-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/tags/go/</loc>
-      
-      <lastmod>2014-07-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/tags/golang/</loc>
-      
-      <lastmod>2014-07-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/tags/hugo/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/tags/templates/</loc>
-      
-      <lastmod>2014-07-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://hammock.marketing/tags/themes/</loc>
-      
-      <lastmod>2014-07-28T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       
       
       

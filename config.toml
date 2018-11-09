@@ -24,12 +24,12 @@ canonifyurls    = true
   linkedinName = "adam.tervort"
   mediumName = "invisible_man"
 
-  logo = "https://res.cloudinary.com/adamprime/image/upload/v1541728125/logo.jpg"
+  logo = "images/hm_logo_white.png"
   orgName = "Hammock Marketing"
   orgWebsite = "https://adamtervort.com"
   orgDescription = "Made with 🎶 by Adam"
 
-  showSupport = true
+  showSupport = false
 
   author = "Adam Tervort"
   authorAvatar = "https://res.cloudinary.com/adamprime/image/upload/v1541730175/adam_hat.png"

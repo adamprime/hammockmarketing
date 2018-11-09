@@ -1,7 +1,6 @@
 +++
 title = "About"
 date = "2018-11-03"
-menu = "main"
 +++
 
 Hello, I’m Adam. I have over ten years experience in website design, digital marketing, and customer success. I'm also an educator. I love sharing what I know with others.

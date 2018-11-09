@@ -2,11 +2,17 @@
 title: "Fundraising for a local nonprofit is the worst"
 date: 2018-11-04
 slug: "mmco"
-tags: ["fundraising", "AmazonSmile", "website"]
-categories: ["Nonprofit Life", "Fundraising"]
+author: "Adam Tervort"
+categories:
+- Nonprofit Life
+- Fundraising
+tags:
+- website
+- AmazonSmile
+- fundraising
 ---
 
-![music in a red folder](/posts/mmco.jpg)
+![music in a red folder](https://res.cloudinary.com/adamprime/image/upload/v1541718172/mmco.jpg)
 
 Over the past 11 months I have served as the president of the board of a small 501(3)c nonprofit in my hometown, the [Many Moods Choir and Orchestra](https://manymoods.xyz). Each Christmas season we perform two free concerts for the community. The orchestra and choir are all volunteers who give up time on during for months worth of Saturdays to rehearse together. (This doesn't include all the personal practice time involved. The music we play is hard! I'm currently nursing sore arms, a sure symptom of a string bass player who plays much more vigorously, and less frequently, than he should.)
 
@@ -35,7 +41,7 @@ Amazon has a cool program called [AmazonSmile](https://www.amazon.com/gp/help/cu
 Our performances are always well attended. This year we are trying out selling ad space to local businesses in the program. If you’ve ever been to a major symphony performance you’ll recognize this tactic; it’s sometimes hard to find the program notes among the pages of ads. I hope the businesses will find some value in this.
 
 ### Donations on our site
-Our website in a new addition this year. This gives us a central place to recruit, post information, and take donations. [DreamHost](https://mbsy.co/dreamhost/42547547) has an amazing free hosting plan for nonprofits that includes a free domain registration. WordPress is the CMS for the site, and Stripe powers the donations.
+Our website in a new addition this year. This gives us a central place to recruit, post information, and take donations. [DreamHost](https://mbsy.co/dreamhost/42547547) has an amazing free hosting plan for nonprofits that includes a free domain registration. WordPress is the CMS for the site, and [Stripe powers the donations](https://www.manymoods.xyz/support-us/).
 
 -----
 *What else can we do? If you have suggestions or know of other ways to fundraise I would love to hear them.*

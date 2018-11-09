@@ -1,69 +1,66 @@
-baseURL = "https://hammock.marketing"
-languageCode = "en-us"
-title = "Hammock Marketing"
-theme = "LeaveIt"
-
-paginate = 12
-enableEmoji = true
-enableRobotsTXT = true
-googleAnalytics = "UA-128042666-2"
-
-preserveTaxonomyNames = true
-
-[blackfriday]
-  hrefTargetBlank = true
-  nofollowLinks = true
-  noreferrerLinks = true
-
-[Permalinks]
- posts = "/:year/:filename/"
-
-[menu]
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 2
-
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Courses"
-    url = "https://learn.hammock.marketing"
-    weight = 1
-
-#  [[menu.main]]
-#    name = "About Hammock Marketing"
-#    url = "/about/"
-#    weight = 4
+baseurl         = "https://hammock.marketing/"
+theme           = "hugo-casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
 
 [params]
-    since = 2016
-    author = "Adam Tervort"                           # Author's name
-    avatar = "/images/me/logo.jpg"           # Author's avatar
-    subtitle = "Optimize your learning and improve your business."         # Subtitle
-    cdn_url = ""           # Base CDN URL
-    home_mode = "" # post or other
+  title       = "Hammock Marketing"
+  subtitle    = "Advancing Nonprofit Missions through Technology"
+  copyright   = "© 2018"
 
-    google_verification = ""
+  cover       = "https://res.cloudinary.com/adamprime/image/upload/v1541729333/cover5.jpg"
+  description = "Advancing Nonprofit Missions through Technology"
+  metaDescription = ""
+  googleAnalytics = "UA-128042666-2"
+  customCSS = []
+  RSSLink = ""
 
-    description = "" # site description
-    keywords = "" # site keywords
+  twitterName = "adamtervort"
+#  fbName = "fakeghost"
+#  githubName = "eueung"
+  linkedinName = "adam.tervort"
+  mediumName = "invisible_man"
 
-    beian = ""
-    baiduAnalytics = ""
+  logo = "https://res.cloudinary.com/adamprime/image/upload/v1541728125/logo.jpg"
+  orgName = "Hammock Marketing"
+  orgWebsite = "https://adamtervort.com"
+  orgDescription = "Made with 🎶 by Adam"
 
-    license= 'CC BY-NC 4.0<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank"> license'
+  showSupport = true
 
-[params.social]
-    GitHub = "adamprime"
-    Twitter = "adamtervort"
-    Email   = "adam@adamtervort.com"
-#    Instagram = "xxoo"
-#    Wechat = "/images/me/wechat.png"  # Wechat QRcode image
-#    Facebook = "xxoo"
-#    Telegram = "xxoo"
-#    Dribbble = "xxoo"
-    Medium = "@invisible_man"
+  author = "Adam Tervort"
+  authorAvatar = "https://res.cloudinary.com/adamprime/image/upload/v1541730175/adam_hat.png"
+  authorLocation = "Kansas City, MO"
+  authorWebsite = "https://adamtervort.com"
+  authorDescription = "Customer success, baseball, jazz music, and 🌮"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 100
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
+
+[[menu.main]]
+  name = "Courses"
+  url = "https://learn.hammock.marketing/"
+  weight = 95

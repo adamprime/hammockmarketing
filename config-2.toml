@@ -31,15 +31,15 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Adam Tervort"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
+  name = "Hammock Marketing"
+  bio = "Accelerate your nonprofit or small business with expert training"
+#  job = "Your job title"
   location = "KCMO"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "adam@adamtervort.com"
+#  gravatarEmail = "adam@adamtervort.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "images/me/logo.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
  twitter = "adamtervort"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -61,7 +61,7 @@ canonifyurls = true
 [[menu.main]]
   weight = 3
   identifier = "tags"
-  name = "Tags"
+  name = "Topics"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
 [[menu.main]]
@@ -75,7 +75,7 @@ canonifyurls = true
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+  url = "/about"
 
 #[[menu.links]]
 #  weight = 1
@@ -83,12 +83,12 @@ canonifyurls = true
 #  name = "GitHub"
 #  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
 #  url = "https://github.com/kakawait"
-#[[menu.links]]
-#  weight = 2
-#  identifier = "stackoverflow"
-#  name = "Stack Overflow"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-#  url = "https://stackoverflow.com/users/636472/kakawait"
+[[menu.links]]
+  weight = 2
+  identifier = "stackoverflow"
+  name = "Courses"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
+  url = "https://learn.hammock.marketing"
 
 [[menu.misc]]
   weight = 1
@@ -118,7 +118,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Accelerate your nonprofit or small business with expert training"
 
   # Customization
   # Define the behavior of the sidebar
@@ -141,7 +141,7 @@ canonifyurls = true
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
-  coverImage = "cover.jpg"
+  coverImage = "https://res.cloudinary.com/adamprime/image/upload/v1541717851/cover2.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
@@ -196,15 +196,15 @@ canonifyurls = true
     icon = "fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
 
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
+#  [[params.sharingOptions]]
+#    name = "Google+"
+#    icon = "fa-google-plus"
+#    url = "https://plus.google.com/share?url=%s"
 
-  [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
+[params.header.rightLink]
+  class = ""
+  icon = ""
+  url = "/#about"
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]

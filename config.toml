@@ -8,11 +8,11 @@ canonifyurls    = true
 
 [params]
   title       = "Hammock Marketing"
-  subtitle    = "Advancing Nonprofit Missions through Technology"
-  copyright   = "© 2018"
+  subtitle    = "Productivity despite technology"
+  copyright   = "© 2019"
 
   cover       = "https://res.cloudinary.com/adamprime/image/upload/v1541729333/cover5.jpg"
-  description = "Advancing Nonprofit Missions through Technology"
+  description = "Productivity despite technology"
   metaDescription = ""
   googleAnalytics = "UA-128042666-2"
   customCSS = []

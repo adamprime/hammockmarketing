@@ -1,6 +1,6 @@
 ---
 title: "How Intermittent Fasting has helped my relationship with food"
-date: "2019-08-15"
+date: "2019-02-15"
 url: "/intermittentfasting"
 description: "Fasting can make a big difference in many areas of our lives. For me it has helped temper my relationship with food. Here's how I got started with Intermittent Fasting."
 tldr: "Fasting can make a big difference in many areas of our lives. For me it has helped temper my relationship with food. Here's how I got started with Intermittent Fasting."

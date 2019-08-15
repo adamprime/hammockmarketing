@@ -1,7 +1,10 @@
-+++
-title = "About"
-date = "2018-11-03"
-+++
+---
+title: "About"
+date: "2018-11-03"
+image: "img/briana-tozour-QipZr29K7Mw-unsplash.jpg"
+thumbnail: "img/briana-tozour-QipZr29K7Mw-unsplash_500x500.jpeg"
+credit: "https://unsplash.com/photos/QipZr29K7Mw"
+---
 
 Hello, I’m Adam. I have over ten years experience in website design, digital marketing, and customer success. I'm also an educator. I love sharing what I know with others.
 

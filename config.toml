@@ -1,66 +1,42 @@
-baseurl         = "https://hammock.marketing/"
-theme           = "hugo-casper-two"
+# Site settings
+baseurl = "https://hammock.marketing/"
+title = "Hammock Marketing"
+paginate = 5
+buildFuture = true
+theme           = "story"
 languageCode    = "en-US"
-disqusShortname = ""
-paginate        = 6
-#SectionPagesMenu = "main"
-canonifyurls    = true
+# disqusShortname = "hammock-marketing" #This isn't supported by the theme yet but I'm leaving here until it is.
 
-[params]
-  title       = "Hammock Marketing"
-  subtitle    = "Productivity despite technology"
-  copyright   = "© 2019"
 
-  cover       = "https://res.cloudinary.com/adamprime/image/upload/v1541729333/cover5.jpg"
-  description = "Productivity despite technology"
-  metaDescription = ""
-  googleAnalytics = "UA-128042666-2"
-  customCSS = []
-  RSSLink = ""
-
-  twitterName = "adamtervort"
-#  fbName = "fakeghost"
-#  githubName = "eueung"
-  linkedinName = "adam.tervort"
-  mediumName = "invisible_man"
-
-  logo = "images/hm_logo_white.png"
-  orgName = "Hammock Marketing"
-  orgWebsite = "https://adamtervort.com"
-  orgDescription = "Made with 🎶 by Adam"
-
-  showSupport = false
-
-  author = "Adam Tervort"
-  authorAvatar = "https://res.cloudinary.com/adamprime/image/upload/v1541730175/adam_hat.png"
-  authorLocation = "Kansas City, MO"
-  authorWebsite = "https://adamtervort.com"
-  authorDescription = "Customer success, baseball, jazz music, and 🌮"
-
-  pageNotFoundTitle = "404 - Page not found"
-
-  #casper or caspertwo
-  singleViewStyle = "casper"
-
-[permalinks]
-  post = "/post/:slug/"
-
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 200
+[[menu.social]]
+  name = "Twitter"
+  title = "fab fa-twitter-square"
+  url = "https://twitter.com/adamtervort/"
 
 [[menu.main]]
   name = "About"
+  title = "About"
   url = "/about/"
-  weight = 100
-
-[[menu.main]]
-  name = "Categories"
-  url = "/categories/"
-  weight = 99
 
 [[menu.main]]
   name = "Courses"
+  title = "Courses"
   url = "https://learn.hammock.marketing/"
-  weight = 95
+
+[[menu.main]]
+  name = "Archives"
+  title = "Archives"
+  url = "/archives/"
+
+[params]
+  author = "Adam Tervort"
+  twitter = "adamtervort"
+  classes = []
+  mailchimp = "https://adamtervort.us3.list-manage.com/subscribe?u=ffbbac2138851a3fd1d76ff26&id=038329dcb8"
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]

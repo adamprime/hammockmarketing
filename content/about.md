@@ -7,7 +7,7 @@ Hello, I’m Adam. I have over ten years experience in website design, digital m
 
 My goal is to help you be more productive and learn the skills and techniques that will accelerate your performance and enhance your business and sales. Online courses mean we can work together no matter where you're located at. (And even from your hammock!)
 
-If you ever have questions please reach out via the form below.
+If you ever have questions please reach out below. I would love to connect with you. 
 
 ## Contact me
 

@@ -3,19 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hammock.marketing/post/mmco/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hammock.marketing/about/</loc>
-    <lastmod>2018-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hammock.marketing/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -26,11 +15,6 @@
   
   <url>
     <loc>https://hammock.marketing/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hammock.marketing/tags/fundraising/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -39,6 +23,11 @@
     <loc>https://hammock.marketing/categories/fundraising/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/post/mmco/</loc>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -54,9 +43,41 @@
   </url>
   
   <url>
+    <loc>https://hammock.marketing/tags/fundraising/</loc>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hammock.marketing/tags/website/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/about/</loc>
+    <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/authors/adam-tervort/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/mailchimp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/search/</loc>
   </url>
   
 </urlset>

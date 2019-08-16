@@ -9,5 +9,7 @@ thumbnail: "" # default size should be 500x500, path starts with "img/whatever.e
 credit: "" # this is the link to the page the image came from 
 categories:
 - Uncategorized
+tags: 
+- 
 draft: "true" # change to false to publish
 ---

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memories on Hammock Marketing</title>
+    <link>https://hammock.marketing/categories/memories/</link>
+    <description>Recent content in Memories on Hammock Marketing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hammock.marketing/categories/memories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back to Pen and Ink</title>
+      <link>https://hammock.marketing/pen-and-ink/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hammock.marketing/pen-and-ink/</guid>
+      <description>In the last six months my wife and I have been going through boxes of old books and papers from years pat. You see, we have made some major moves in our 16 years together, including two international moves that basically forced us to start over from zero. the one place we were able to keep some mementos was in my parents’ basement. This spring my Mom, who allowed us to keep the stuff there for years longer than it should have been (Thanks Mom!</description>
+    </item>
+    
+  </channel>
+</rss>

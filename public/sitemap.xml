@@ -3,20 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hammock.marketing/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <loc>https://hammock.marketing/tags/5-minute-journal/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hammock.marketing/tags/amazonsmile/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <loc>https://hammock.marketing/tags/bullet-journal/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hammock.marketing/categories/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/journaling/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/journal-mashup/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/notebooks/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/systems/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/tags/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/browsers/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/digital-security/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/tags/duckduckgo/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/tags/https/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/privacy/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/protect-privacy-2-steps/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/tags/startpage/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/tags/browser-extensions/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/tags/ublock/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/pen-and-ink/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/books/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/handwriting/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/memories/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/fasting/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/categories/fitness/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hammock.marketing/intermittentfasting/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -26,32 +154,8 @@
   </url>
   
   <url>
-    <loc>https://hammock.marketing/post/mmco/</loc>
+    <loc>https://hammock.marketing/mmco/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hammock.marketing/post/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hammock.marketing/tags/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hammock.marketing/tags/fundraising/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hammock.marketing/tags/website/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

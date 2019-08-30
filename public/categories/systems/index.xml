@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems on Hammock Marketing</title>
+    <link>https://hammock.marketing/categories/systems/</link>
+    <description>Recent content in Systems on Hammock Marketing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hammock.marketing/categories/systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My New Journal Mashup</title>
+      <link>https://hammock.marketing/journal-mashup/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hammock.marketing/journal-mashup/</guid>
+      <description>I’ve been struggling a bit with my journal. For the past couple of months I’ve been using the Bullet Journal method. I like it, but it is restrictive. Sometimes I find myself just not writing because I don’t want to decide how to categorize or add something to my index. I appreciate some aspects of the system, but not all are for me. I am coming to the end of a notebook and I wanted to make an adjustment so I can make better use of the new one.</description>
+    </item>
+    
+    <item>
+      <title>Back to Pen and Ink</title>
+      <link>https://hammock.marketing/pen-and-ink/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hammock.marketing/pen-and-ink/</guid>
+      <description>In the last six months my wife and I have been going through boxes of old books and papers from years pat. You see, we have made some major moves in our 16 years together, including two international moves that basically forced us to start over from zero. the one place we were able to keep some mementos was in my parents’ basement. This spring my Mom, who allowed us to keep the stuff there for years longer than it should have been (Thanks Mom!</description>
+    </item>
+    
+  </channel>
+</rss>

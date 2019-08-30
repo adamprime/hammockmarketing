@@ -5,15 +5,191 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<author>Adam Tervort</author>
-		<rights>Copyright (c) 2018</rights>
-		<updated>2018-11-04 00:00:00 &#43;0000 UTC</updated>
+		<rights>Copyright (c) 2019</rights>
+		<updated>2019-08-30 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title>My New Journal Mashup</title>
+			<link>https://hammock.marketing/journal-mashup/</link>
+			<pubDate>Fri, 30 Aug 2019 00:00:00 UTC</pubDate>
+			<author>Adam Tervort</author>
+			<guid>https://hammock.marketing/journal-mashup/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/journal-mashup_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;I’ve been struggling a bit with my journal. For the past couple of months I’ve been using the Bullet Journal method. I like it, but it is restrictive. Sometimes I find myself just not writing because I don’t want to decide how to categorize or add something to my index. I appreciate some aspects of the system, but not all are for me. I am coming to the end of a notebook and I wanted to make an adjustment so I can make better use of the new one.&lt;/p&gt;
+
+&lt;p&gt;I also &lt;a href=&#34;https://www.thehealthloft.ca/the-perfect-morning-routine-for-high-achievers/&#34;&gt;ran across an article&lt;/a&gt; recently that mentioned the &lt;a href=&#34;https://www.intelligentchange.com/&#34;&gt;5 Minute Journal&lt;/a&gt; .  I always like the concept behind that. The issue for me was that I didn’t want to buy a journal that was only 5 Minute Journal entries. (It’s a combination gratitude journal and basic daily planner. Useful, but hardly able to function as a catch-all.)&lt;/p&gt;
+
+&lt;p&gt;So I made my own mashup.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://hammock.marketing/img/journal-mashup.jpg&#34; alt=&#34;My Mashup Journal&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the left is the outline of a 5 Minute Journal entry. On the right, a slightly more structured BuJo page. This means I’ll be using one spread per day, which will use more notebooks, but I’m actually excited to write in it again. The past few days have been excellent, both in terms of capturing the things I need to do, and in terms of allowing me to evaluate my day and make improvements.&lt;/p&gt;
+
+&lt;p&gt;The other change I’ve made recently is carrying around a small field notes-sized notebook with me. I think of it as my “everyday carry” notebook. Anything fun or interesting that I hear or see goes into it. There isn’t intended to be lots of meaning here, just a place to jot and doodle. When I’m back at my desk I can transfer over anything significant into my main journal.&lt;/p&gt;
+
+&lt;p&gt;I also added a larger notebook that my writing goes into. Everything from blog posts to presentations to talks start off in the big notebook and are written by hand. The second draft happens when I type them into the computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://hammock.marketing/img/notebook-trio.jpg&#34; alt=&#34;trio of notebooks&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;H/T to &lt;a href=&#34;https://austinkleon.com/2018/02/19/notebook-turducken/&#34;&gt;Austin Kleon&lt;/a&gt;  and &lt;a href=&#34;http://www.openculture.com/2017/06/david-sedaris-breaks-down-his-writing-process.html&#34;&gt;David Sedaris&lt;/a&gt;  for the idea of using multiple notebooks together in a loose system.&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Start to Protect your Privacy with these Two Steps</title>
+			<link>https://hammock.marketing/protect-privacy-2-steps/</link>
+			<pubDate>Fri, 16 Aug 2019 00:00:00 UTC</pubDate>
+			<author>Adam Tervort</author>
+			<guid>https://hammock.marketing/protect-privacy-2-steps/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/online-privacy-gian-d-jZxairpkhho-unsplash_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>
+
+&lt;p&gt;We all need to be a bit more invisible on the internet. I’m in marketing and I can tell you that the number of ways you are tracked around the web are as scary as they are creative.&lt;/p&gt;
+
+&lt;p&gt;Luckily there are some simple things we can do to avoid most of the tracking (and speed up your browsing at the same time).&lt;/p&gt;
+
+&lt;h2 id=&#34;step-1-block-trackers-and-ads&#34;&gt;Step 1: Block trackers and ads&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Install a tracker blocker on your browser. The EFF’s Privacy Badger works really well.&lt;/li&gt;
+&lt;li&gt;Instal the HTTPS Everywhere extension. This tiny but mighty add-on helps to ensure you have a safe connection to websites you visit.&lt;/li&gt;
+&lt;li&gt;Install uBlock to block ads on most sites.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These extension are available for most browsers. If you want an all-in-one solution that includes these things by default, try the Brave browser. It’s based or Chrome so the majority of Chrome extensions work with it.&lt;/p&gt;
+
+&lt;h2 id=&#34;step-2-don-t-use-google-search&#34;&gt;Step 2: Don’t use Google search&lt;/h2&gt;
+
+&lt;p&gt;The second thing you can do is stop using Google as your search engine. Part of the reason we are tracked so effectively is because we use Google search. In many ways it is the beginning of the tracking cycles. Using an alternative search engine gives you a similar experience without the pernicious tracking of Google. It also helps avoid “search bubbles” where you see the same type of results based on things you’ve clicking on in the past.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Startpage.com is my go-to search engine. The results come from Google but are filtered so that Google doesn’t see you as the searcher. Excellent search results without the tracking.&lt;/li&gt;
+&lt;li&gt;DuckDuckGo.com is my other favorite. They have an excellent browser extension on desktop which blocks trackers and ads as well as setting DuckDuckGo as your default search engine. Their mobile app has become by default browser on my phone.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are small steps you can take to help safeguard your privacy online. They don’t take much effort but over time can make a big difference.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;What other suggestion do you have for safer or more privacy-conscious internet use? Let me know on &lt;a href=&#34;https://twitter.com/adamtervort/&#34;&gt;Twitter&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Back to Pen and Ink</title>
+			<link>https://hammock.marketing/pen-and-ink/</link>
+			<pubDate>Thu, 15 Aug 2019 00:00:00 UTC</pubDate>
+			<author>Adam Tervort</author>
+			<guid>https://hammock.marketing/pen-and-ink/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/thomas-martinsen-4H9IuFBIpYM-unsplash_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;In the last six months my wife and I have been going through boxes of old books and papers from years pat. You see, we have made some major moves in our 16 years together, including two international moves that basically forced us to start over from zero. the one place we were able to keep some mementos was in my parents’ basement. This spring my Mom, who allowed us to keep the stuff there for years longer than it should have been (Thanks Mom!), finally told us it was time to come and reclaim our stuff. Fair enough!&lt;/p&gt;
+
+&lt;p&gt;We took eight boxes of thins back to our house and they landed in our garage. A few months later we spent a Saturday going through everything, deciding what to keep and what to let go. That in itself is a group experience. Thank Marie Kondo for teaching us how to thank things for the joy they brought us and then let them go!)&lt;/p&gt;
+
+&lt;p&gt;College textbooks, old novels, and other stuff that seemed important at the time but isn’t really now all went to the thrift store. Photos, journals, important books and letters, and childhood mementos were taken out, experienced again, and found a new home. It was a great way to spend an afternoon.&lt;/p&gt;
+
+&lt;p&gt;One of the interesting thins I discovered was that I used to take a ton of notes. The time in my life when I experienced the most personal growth and positive changes was the time that I also took the most handwritten notes. Agendas from meetings were filled with notes. I filled the margins of books with notes. Every scrap of paper seemed stuffed with my handwriting. I was frankly amazed—I don’t remember being a person who wrote much, especially by hand.&lt;/p&gt;
+
+&lt;p&gt;That time in my wife was before I had much access to technology. My cell phone was just for calls, my computer use was either in a computer lab or on a family computer, and the most important possessions I had were books and musical instruments.&lt;/p&gt;
+
+&lt;p&gt;I subsequent years I would start to acquire digital &lt;em&gt;things&lt;/em&gt; like a laptop and a PDA, then later an iPod, a smartphone, etc. I lived overseas and, though I loved to read, couldn’t always afford to buy English books. Ebooks became one of the most precious thins in my life. It also led me to learn about Linux, some computer programming, and eventually to the awesome job I have working at a software company. I love all of this and am so grateful for it.&lt;/p&gt;
+
+&lt;p&gt;I also miss my analog life.&lt;/p&gt;
+
+&lt;p&gt;That day, going through the memories and remainders of my pre-digital life, I wanted so much to reclaim the part of me that spent hours taking notes by hand. I know I lost a bit of myself when I decided to going all-in on a digital life was the thing for me.&lt;/p&gt;
+
+&lt;p&gt;I started with small steps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Having a pen and notebook with me each day&lt;/li&gt;
+&lt;li&gt;Reading physical books&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Has my life drastically changed? Not in major terms but it has in some important small details. My memory is better. Things I write as handwritten notes stick in my mind better. (This was one of my biggest concerns! No search functions in a paper notebook.) I won’t go into the details here of the system I use, but I can say it has made me more efficient rather than less.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;My challenge for you is to find a way to use an analog tool this week that you don’t normally use. I would love to hear about experiences you have and what your thoughts are. Let me know on &lt;a href=&#34;https://twitter.com/adamtervort/&#34;&gt;Twitter&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>How Intermittent Fasting has helped my relationship with food</title>
+			<link>https://hammock.marketing/intermittentfasting/</link>
+			<pubDate>Fri, 15 Feb 2019 00:00:00 UTC</pubDate>
+			<author>Adam Tervort</author>
+			<guid>https://hammock.marketing/intermittentfasting/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/manki-kim-L82-kkEBOd0-unsplash_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>
+
+&lt;p&gt;Back in November I ran across an excellent article on Medium about How to Configure Your iPhone to Work for You, Not Against You. I loved it, and spent the better part of an evening implementing many of the recommendations on my phone. There were several recommended apps that I had never heard of that I set off to explore, including one called ‎Zero — Fasting Tracker. I downloaded it and started to do some research on Intermittent Fasting, the practice the app helps you track.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-what-of-intermittent-fasting&#34;&gt;The What of Intermittent Fasting&lt;/h2&gt;
+
+&lt;p&gt;I was raised in a household that practiced dry fasting one day per month, so I’m not a stranger to fasting, though it was also one of the things I hated most and tried my hardest to dodge. (Which is hilarious because my kids now try the same things to get out of it that I tried for all of my childhood. As if they could play a player! 😂)&lt;/p&gt;
+
+&lt;p&gt;Intermittent Fasting (or IF) is different than the fasting I had experience with. While there are a number of variations, the principle is simple: don’t take in calories for a certain number of hours between dinner and your next meal. Drinking water or drinks with no calories is fine, but eating is not. I use the 16:8 IF variation, with a 16 hour fast and an eight hour window for eating.&lt;/p&gt;
+
+&lt;p&gt;This isn’t really a diet since you can eat whatever you want during the time you’re not fasting. This is one of the things that appealed to me most — it’s dead simple. Don’t eat when you’re fasting, and eat when it’s time to eat. No restrictions, no food logging. Easy as pie 🍰.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-if-has-helped-me&#34;&gt;How IF has helped me&lt;/h2&gt;
+
+&lt;p&gt;I wouldn’t say I have a bad relationship with food, but it’s definitely complicated. Guilt around eating is a very real thing for me. IF has helped.&lt;/p&gt;
+
+&lt;p&gt;The first immediate change I noticed was that I stopped snacking. After the first two days, which were hard, I stopped eating anything between meals. (The routine I have been following is fasting from after dinner, usually starting at 6 pm, until at least 10 am. The eating window starts then and ends at 6 pm.) I eat a good lunch, have a nice dinner with my family, and don’t really eat anything in between. It’s not that I’m trying not to snack; it just hasn’t happened. This is a big change for me.&lt;/p&gt;
+
+&lt;p&gt;I have been able to use IF as a trigger for new habits. &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; When I get hungry in the morning I make a cup of herbal tea or fizzy water. This helps tide me over until lunch and is a great time to do a mindful activity. I started writing in my journal during this morning tea time, another habit I’ve tried and failed to be consistent at in the past. Being more mindful isn’t a strictly physical benefit of IF, but it’s had a very real effect for me.&lt;/p&gt;
+
+&lt;p&gt;There have been some good physical changes as well. I have lost some weight. Nothing dramatic, but enough that it’s about time to go buy some new pants. My skin is clearer than it’s been in years. I have more energy, particularly in the afternoon. (I haven’t had a post-lunch lull since I started with IF.)&lt;/p&gt;
+
+&lt;p&gt;I also feel particularly clear headed and sharp in the mornings. I’m a morning person and tend to get all of my most important tasks for the day done before 10 am. This was actually my main concern before starting IF — if I’m tearing-my-hair-out hungry during my most productive time of the day then the quality of my work will be in the toilet. The exact opposite has happened. I am able to focus and power through tasks in the morning, which makes the rest of the day much better.&lt;/p&gt;
+
+&lt;h2 id=&#34;resources-on-if&#34;&gt;Resources on IF&lt;/h2&gt;
+
+&lt;p&gt;Here are a few of articles and videos I found helpful in learning and practicing IF:&lt;/p&gt;
+
+&lt;h3 id=&#34;articles&#34;&gt;Articles&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jamesclear.com/the-beginners-guide-to-intermittent-fasting&#34;&gt;The Beginner’s Guide to Intermittent Fasting&lt;/a&gt; from James Clear. This was the first article about IF I read and one that helped me decide to give it a try.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nerdfitness.com/blog/a-beginners-guide-to-intermittent-fasting/&#34;&gt;A Beginner’s Guide to Intermittent Fasting | Nerd Fitness&lt;/a&gt; from Nerd Fitness. They cover a lot of information in a really fun way. This is a good place to start if you feel intimidated by the concept of fasting.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156&#34;&gt;Intermittent fasting: Surprising update&lt;/a&gt; Some research here, as well as a good list of further reading at the bottom.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.healthline.com/nutrition/intermittent-fasting-guide#weight-loss&#34;&gt;Intermittent Fasting 101 — The Ultimate Beginner’s Guide&lt;/a&gt;. This article covers much of what is covered in the other articles, but with excellent source citations. If you’re interested in learning research-based facts on how IF works this an excellent resource. This article makes a strong case about the benefits of IF in fighting insulin resistance. This is a big deal for me as my family has a history of type 2 diabetes.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dailyburn.com/life/health/intermittent-fasting-methods/&#34;&gt;5 Intermittent Fasting Methods: Which One Is Best for You?&lt;/a&gt;. Overview of various IF methods in a more structured regimen than what I’m doing now.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;videos&#34;&gt;Videos&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/LLVf3d0rqqY&#34;&gt;How to do Intermittent Fasting: Complete Guide&lt;/a&gt; — YouTube from Thomas DeLauer. This guy has built his business and fitness principles around IF and gives good practical advice.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/lwCRjwDs1Ek&#34;&gt;How to do Intermittent Fasting for Serious Weight Loss&lt;/a&gt;. This gives a good overview of IF. The method he pushes leads towards a 20:4 fast, which I’ve tried a few days. The hardest part of this is scheduling time to eat 😂&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;apps&#34;&gt;Apps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@kevinrose/introducing-zero-a-new-app-to-help-you-fast-209935e8245d&#34;&gt;Introducing “Zero,” a new app to help you fast&lt;/a&gt; — Kevin Rose — Medium This is the app I use to track fasts. Very unobtrusive and helpful.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;I got the idea of habit triggers from James Clear’s excellent book Atomic Habits which I highly recommend.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+		</item>
 		
 		<item>
 			<title>Fundraising for a local nonprofit is the worst</title>
-			<link>https://hammock.marketing/post/mmco/</link>
+			<link>https://hammock.marketing/mmco/</link>
 			<pubDate>Sun, 04 Nov 2018 00:00:00 UTC</pubDate>
 			<author>Adam Tervort</author>
-			<guid>https://hammock.marketing/post/mmco/</guid>
+			<guid>https://hammock.marketing/mmco/</guid>
 			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://res.cloudinary.com/adamprime/image/upload/v1541718172/mmco.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>
 
@@ -65,16 +241,26 @@
 			<pubDate>Sat, 03 Nov 2018 00:00:00 UTC</pubDate>
 			<author>Adam Tervort</author>
 			<guid>https://hammock.marketing/about/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/briana-tozour-QipZr29K7Mw-unsplash_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>
 
-&lt;p&gt;Hello, I’m Adam. I have over ten years experience in website design, digital marketing, and customer success. I&amp;rsquo;m also an educator. I love sharing what I know with others.&lt;/p&gt;
+&lt;p&gt;Marketing is a funny word. It comes with so many negative connotations, especially in our era of internet skulldugery, intensive tracking, and less-than-honest tactics. &lt;a href=&#34;https://seths.blog/2019/08/online-marketing-vs-marketing-online/&#34;&gt;Seth Godin said it best&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;My goal is to help you be more productive and learn the skills and techniques that will accelerate your performance and enhance your business and sales. Online courses mean we can work together no matter where you&amp;rsquo;re located at. (And even from your hammock!)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Online marketing has become a messy mix of direct marketing, seo, tricks, tips, code and guesswork. It’s an always-moving target and it’s mostly focused on tactics, not strategy, because tactics are easy to measure.&lt;/p&gt;
+
+&lt;p&gt;Marketing online, on the other hand, is what happens when the work to serve our audience arrives in an electronic form. Marketing online is simply marketing–the act of making things better by making things–aided by a mouse and a keyboard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My goal is to share my work with you through this site in a way that hopefully makes things better for you. I work in the software world but try to spend as much of my time outside of work in the analog world. My hope is that you find value in the things I share here.&lt;/p&gt;
+
+&lt;p&gt;Why Hammock Marketing? I have a soft spot for hammocks. They make life better, just like good marketing.&lt;/p&gt;
 
 &lt;p&gt;If you ever have questions please reach out below. I would love to connect with you.&lt;/p&gt;
 
 &lt;h2 id=&#34;contact-me&#34;&gt;Contact me&lt;/h2&gt;
+
+&lt;p&gt;The quickest way to get in touch with me is on &lt;a href=&#34;https://twitter.com/adamtervort/&#34;&gt;Twitter&lt;/a&gt;. You can also email me below.&lt;/p&gt;
 
 &lt;div class=&#34;inbound-form-wrapper&#34; id=&#34;form_668&#34; data-path=&#34;https://app.99inbound.com/i/1039ab39-62e1-460e-aef7-c5c5c94c72d4&#34; data-token=&#34;ebWQLRDJQZ2f1K844cunTgtt&#34;&gt;&lt;/div&gt;
 

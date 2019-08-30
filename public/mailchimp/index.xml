@@ -5,17 +5,57 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<author>Adam Tervort</author>
-		<rights>Copyright (c) 2018</rights>
+		<rights>Copyright (c) 2019</rights>
 		<updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
 		
 		<item>
+			<title>My New Journal Mashup</title>
+			<link>https://hammock.marketing/journal-mashup/</link>
+			<pubDate>Fri, 30 Aug 2019 00:00:00 UTC</pubDate>
+			<author>Adam Tervort</author>
+			<guid>https://hammock.marketing/journal-mashup/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/journal-mashup_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>I&amp;rsquo;ve been struggling with the Bullet Journal method so I created my own variation. It combines BuJo with the 5 Minute Journal to create a spread of pages for each day.</description>
+		</item>
+		
+		<item>
+			<title>Start to Protect your Privacy with these Two Steps</title>
+			<link>https://hammock.marketing/protect-privacy-2-steps/</link>
+			<pubDate>Fri, 16 Aug 2019 00:00:00 UTC</pubDate>
+			<author>Adam Tervort</author>
+			<guid>https://hammock.marketing/protect-privacy-2-steps/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/online-privacy-gian-d-jZxairpkhho-unsplash_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>We all need to be a bit more invisible on the internet. Luckily there are some simple things we can do to avoid most of the tracking out there. Here are two steps you can take.</description>
+		</item>
+		
+		<item>
+			<title>Back to Pen and Ink</title>
+			<link>https://hammock.marketing/pen-and-ink/</link>
+			<pubDate>Thu, 15 Aug 2019 00:00:00 UTC</pubDate>
+			<author>Adam Tervort</author>
+			<guid>https://hammock.marketing/pen-and-ink/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/thomas-martinsen-4H9IuFBIpYM-unsplash_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>I lost a bit of myself when I decided to go all-in on a digital life. Recently I decided to try and restore my analog soul with some pens and notebooks.&lt;br&gt;In the last six months my wife and I have been going through boxes of old books and papers from years pat. You see, we have made some major moves in our 16 years together, including two international moves that basically forced us to start over from zero. the one place we were able to keep some mementos was in my parents’ basement. This spring my Mom, who allowed us to keep the stuff there for years longer than it should have been (Thanks Mom!</description>
+		</item>
+		
+		<item>
+			<title>How Intermittent Fasting has helped my relationship with food</title>
+			<link>https://hammock.marketing/intermittentfasting/</link>
+			<pubDate>Fri, 15 Feb 2019 00:00:00 UTC</pubDate>
+			<author>Adam Tervort</author>
+			<guid>https://hammock.marketing/intermittentfasting/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/manki-kim-L82-kkEBOd0-unsplash_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Fasting can make a big difference in many areas of our lives. For me it has helped temper my relationship with food. Here&amp;rsquo;s how I got started with Intermittent Fasting.</description>
+		</item>
+		
+		<item>
 			<title>Fundraising for a local nonprofit is the worst</title>
-			<link>https://hammock.marketing/post/mmco/</link>
+			<link>https://hammock.marketing/mmco/</link>
 			<pubDate>Sun, 04 Nov 2018 00:00:00 UTC</pubDate>
 			<author>Adam Tervort</author>
-			<guid>https://hammock.marketing/post/mmco/</guid>
+			<guid>https://hammock.marketing/mmco/</guid>
 			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://res.cloudinary.com/adamprime/image/upload/v1541718172/mmco.jpg" medium="image" type="image/jpg" width="100" height="100" />
-			<description>%!s(&lt;nil&gt;)&lt;br&gt;Over the past 11 months I have served as the president of the board of a small 501(3)c nonprofit in my hometown, the Many Moods Choir and Orchestra. Each Christmas season we perform two free concerts for the community. The orchestra and choir are all volunteers who give up time on during for months worth of Saturdays to rehearse together. (This doesn&amp;rsquo;t include all the personal practice time involved. The music we play is hard!</description>
+			<description>&lt;br&gt;Over the past 11 months I have served as the president of the board of a small 501(3)c nonprofit in my hometown, the Many Moods Choir and Orchestra. Each Christmas season we perform two free concerts for the community. The orchestra and choir are all volunteers who give up time on during for months worth of Saturdays to rehearse together. (This doesn&amp;rsquo;t include all the personal practice time involved. The music we play is hard!</description>
 		</item>
 		
 		<item>
@@ -24,9 +64,10 @@
 			<pubDate>Sat, 03 Nov 2018 00:00:00 UTC</pubDate>
 			<author>Adam Tervort</author>
 			<guid>https://hammock.marketing/about/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
-			<description>%!s(&lt;nil&gt;)&lt;br&gt;Hello, I’m Adam. I have over ten years experience in website design, digital marketing, and customer success. I&amp;rsquo;m also an educator. I love sharing what I know with others.
-My goal is to help you be more productive and learn the skills and techniques that will accelerate your performance and enhance your business and sales. Online courses mean we can work together no matter where you&amp;rsquo;re located at. (And even from your hammock!</description>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hammock.marketing/img/briana-tozour-QipZr29K7Mw-unsplash_500x500.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>%!s(&lt;nil&gt;)&lt;br&gt;Marketing is a funny word. It comes with so many negative connotations, especially in our era of internet skulldugery, intensive tracking, and less-than-honest tactics. Seth Godin said it best:
+ Online marketing has become a messy mix of direct marketing, seo, tricks, tips, code and guesswork. It’s an always-moving target and it’s mostly focused on tactics, not strategy, because tactics are easy to measure.
+Marketing online, on the other hand, is what happens when the work to serve our audience arrives in an electronic form.</description>
 		</item>
 		
 	</channel>

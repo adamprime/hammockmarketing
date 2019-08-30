@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journaling on Hammock Marketing</title>
+    <link>https://hammock.marketing/categories/journaling/</link>
+    <description>Recent content in Journaling on Hammock Marketing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hammock.marketing/categories/journaling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My New Journal Mashup</title>
+      <link>https://hammock.marketing/journal-mashup/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hammock.marketing/journal-mashup/</guid>
+      <description>I’ve been struggling a bit with my journal. For the past couple of months I’ve been using the Bullet Journal method. I like it, but it is restrictive. Sometimes I find myself just not writing because I don’t want to decide how to categorize or add something to my index. I appreciate some aspects of the system, but not all are for me. I am coming to the end of a notebook and I wanted to make an adjustment so I can make better use of the new one.</description>
+    </item>
+    
+  </channel>
+</rss>

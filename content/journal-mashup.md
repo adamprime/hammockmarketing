@@ -34,3 +34,7 @@ I also added a larger notebook that my writing goes into. Everything from blog p
 ![trio of notebooks](/img/notebook-trio.jpg)
 
 H/T to [Austin Kleon](https://austinkleon.com/2018/02/19/notebook-turducken/)  and [David Sedaris](http://www.openculture.com/2017/06/david-sedaris-breaks-down-his-writing-process.html)  for the idea of using multiple notebooks together in a loose system. 
+
+---
+
+*Do you journal? What systems or techniques do you use? Let me know on [Twitter](https://twitter.com/adamtervort/).*

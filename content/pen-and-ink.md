@@ -15,7 +15,7 @@ categories:
 draft: "false"
 ---
 
-In the last six months my wife and I have been going through boxes of old books and papers from years pat. You see, we have made some major moves in our 16 years together, including two international moves that basically forced us to start over from zero. the one place we were able to keep some mementos was in my parents’ basement. This spring my Mom, who allowed us to keep the stuff there for years longer than it should have been (Thanks Mom!), finally told us it was time to come and reclaim our stuff. Fair enough!
+In the last six months my wife and I have been going through boxes of old books and papers from years past. You see, we have made some major moves in our 16 years together, including two international moves that basically forced us to start over from zero. the one place we were able to keep some mementos was in my parents’ basement. This spring my Mom, who allowed us to keep the stuff there for years longer than it should have been (Thanks Mom!), finally told us it was time to come and reclaim our stuff. Fair enough!
 
 We took eight boxes of thins back to our house and they landed in our garage. A few months later we spent a Saturday going through everything, deciding what to keep and what to let go. That in itself is a group experience. Thank Marie Kondo for teaching us how to thank things for the joy they brought us and then let them go!) 
 

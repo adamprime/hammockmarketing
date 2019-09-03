@@ -16,9 +16,6 @@ draft: "true" # change to false to publish
 
 
 
-
-
-
 ---
 
 *ASK A QUESTION HERE TO CALL FOR COMMENTS? Let me know on [Twitter](https://twitter.com/adamtervort/).*

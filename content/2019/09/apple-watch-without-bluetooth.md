@@ -1,7 +1,7 @@
 ---
 title: "Using an Apple Watch with Bluetooth off"
 date: "2019-09-02"
-url: "/apple-watch-without-bluetooth"
+url: "/2019/09/apple-watch-without-bluetooth"
 description: "I wear an Apple Watch for the convenience, but I’m also very concerned with how terrible Bluetooth is from a security perspective. I wanted to find out if it's possible to use the watch without the bluetooth."
 tldr: "I wear an Apple Watch for the convenience, but I’m also very concerned with how terrible Bluetooth is from a security perspective. I wanted to find out if it's possible to use the watch without the bluetooth."
 image: "img/applewatch-chuttersnap-iFPBRwZ4I-M-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"

@@ -1,7 +1,7 @@
 ---
 title: "Hope for the future"
 date: "2019-09-02"
-url: "/hope-for-the-future"
+url: "/2019/09/hope-for-the-future"
 description: "While the outlook for our global environmental situation is dire, our last hope may be the children around us."
 tldr: "While the outlook for our global environmental situation is dire, our last hope may be the children around us."
 image: "img/hope-jenn-evelyn-ann-UYDoE_AyJQs-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"

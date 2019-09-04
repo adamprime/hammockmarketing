@@ -4,8 +4,8 @@ date: "2019-02-15"
 url: "/intermittentfasting"
 description: "Fasting can make a big difference in many areas of our lives. For me it has helped temper my relationship with food. Here's how I got started with Intermittent Fasting."
 tldr: "Fasting can make a big difference in many areas of our lives. For me it has helped temper my relationship with food. Here's how I got started with Intermittent Fasting."
-image: "img/manki-kim-L82-kkEBOd0-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/manki-kim-L82-kkEBOd0-unsplash_500x500.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "img/2019-08/manki-kim-L82-kkEBOd0-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "img/2019-08/manki-kim-L82-kkEBOd0-unsplash_500x500.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/L82-kkEBOd0" # this is the link to the page the image came from 
 categories:
 - Fasting

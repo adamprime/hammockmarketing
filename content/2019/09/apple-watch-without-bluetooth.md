@@ -4,8 +4,8 @@ date: "2019-09-02"
 url: "/2019/09/apple-watch-without-bluetooth"
 description: "I wear an Apple Watch for the convenience, but I’m also very concerned with how terrible Bluetooth is from a security perspective. I wanted to find out if it's possible to use the watch without the bluetooth."
 tldr: "I wear an Apple Watch for the convenience, but I’m also very concerned with how terrible Bluetooth is from a security perspective. I wanted to find out if it's possible to use the watch without the bluetooth."
-image: "img/applewatch-chuttersnap-iFPBRwZ4I-M-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/applewatch-500chuttersnap-iFPBRwZ4I-M-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "img/2019-09/applewatch-chuttersnap-iFPBRwZ4I-M-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "img/2019-09/applewatch-500chuttersnap-iFPBRwZ4I-M-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/iFPBRwZ4I-M" # this is the link to the page the image came from 
 categories:
 - bluetooth
@@ -23,11 +23,11 @@ I went off in search of information on if it’s possible to use an Apple Watch 
 
 ## 1. On a watch without Wi-Fi, cellular, or a phone connection you can use these features:
 
-![Apple watch without a phone](/img/watch-no-phone.png)
+![Apple watch without a phone](/img/2019-09/watch-no-phone.png)
 
 ## 2. On a watch with a Wi-Fi connection but no cellular or phone
 
-![Apple watch with wifi](/img/watch-with-wifi.png)
+![Apple watch with wifi](/img/2019-09/watch-with-wifi.png)
 
 The caveat here is that once you leave the WiFi connection you lose anything internet connected.
 

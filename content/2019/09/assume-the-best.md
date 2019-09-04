@@ -4,8 +4,8 @@ date: "2019-09-03"
 url: "/2019/09/assume-the-best"
 description: "Assuming the best in others is hard, especially since human nature is to assume the worst. But assuming the best gives us a hidden superpower: we're better able to live with ourselves."
 tldr: "Assuming the best in others is hard, especially since human nature is to assume the worst. But assuming the best gives us a hidden superpower: we're better able to live with ourselves."
-image: "img/intentions-erol-ahmed-aIYFR0vbADk-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/intentions-500-erol-ahmed-aIYFR0vbADk-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "img/2019-09/intentions-erol-ahmed-aIYFR0vbADk-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "img/2019-09/intentions-500-erol-ahmed-aIYFR0vbADk-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/aIYFR0vbADk" # this is the link to the page the image came from 
 categories:
 - work

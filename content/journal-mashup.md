@@ -4,8 +4,8 @@ date: "2019-08-30"
 url: "/journal-mashup"
 description: "I've been struggling with the Bullet Journal method so I created my own variation. It combines BuJo with the 5 Minute Journal to create a spread of pages for each day."
 tldr: "I've been struggling with the Bullet Journal method so I created my own variation. It combines BuJo with the 5 Minute Journal to create a spread of pages for each day."
-image: "img/journal-mashup.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/journal-mashup_500x500.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "img/2019-08/journal-mashup.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "img/2019-08/journal-mashup_500x500.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "" # this is the link to the page the image came from 
 categories:
 - Journaling
@@ -23,7 +23,7 @@ I also [ran across an article](https://www.thehealthloft.ca/the-perfect-morning-
 
 So I made my own mashup.
 
-![My Mashup Journal](/img/journal-mashup.jpg)
+![My Mashup Journal](/img/2019-08/journal-mashup.jpg)
 
 On the left is the outline of a 5 Minute Journal entry. On the right, a slightly more structured BuJo page. This means I’ll be using one spread per day, which will use more notebooks, but I’m actually excited to write in it again. The past few days have been excellent, both in terms of capturing the things I need to do, and in terms of allowing me to evaluate my day and make improvements.
 
@@ -31,7 +31,7 @@ The other change I’ve made recently is carrying around a small field notes-siz
 
 I also added a larger notebook that my writing goes into. Everything from blog posts to presentations to talks start off in the big notebook and are written by hand. The second draft happens when I type them into the computer. 
 
-![trio of notebooks](/img/notebook-trio.jpg)
+![trio of notebooks](/img/2019-08/notebook-trio.jpg)
 
 H/T to [Austin Kleon](https://austinkleon.com/2018/02/19/notebook-turducken/)  and [David Sedaris](http://www.openculture.com/2017/06/david-sedaris-breaks-down-his-writing-process.html)  for the idea of using multiple notebooks together in a loose system. 
 

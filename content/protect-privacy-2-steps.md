@@ -4,8 +4,8 @@ date: "2019-08-16"
 url: "/protect-privacy-2-steps"
 description: "We all need to be a bit more invisible on the internet. Luckily there are some simple things we can do to avoid most of the tracking out there. Here are two steps you can take."
 tldr: "We all need to be a bit more invisible on the internet. Luckily there are some simple things we can do to avoid most of the tracking out there. Here are two steps you can take."
-image: "img/online-privacy-gian-d-jZxairpkhho-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/online-privacy-gian-d-jZxairpkhho-unsplash_500x500.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "img/2019-08/online-privacy-gian-d-jZxairpkhho-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "img/2019-08/online-privacy-gian-d-jZxairpkhho-unsplash_500x500.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/jZxairpkhho" # this is the link to the page the image came from 
 categories:
 - Privacy

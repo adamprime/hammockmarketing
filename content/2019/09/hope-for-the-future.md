@@ -4,8 +4,8 @@ date: "2019-09-02"
 url: "/2019/09/hope-for-the-future"
 description: "While the outlook for our global environmental situation is dire, our last hope may be the children around us."
 tldr: "While the outlook for our global environmental situation is dire, our last hope may be the children around us."
-image: "img/hope-jenn-evelyn-ann-UYDoE_AyJQs-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/hope-500-jenn-evelyn-ann-UYDoE_AyJQs-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "img/2019-09/hope-jenn-evelyn-ann-UYDoE_AyJQs-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "img/2019-09/hope-500-jenn-evelyn-ann-UYDoE_AyJQs-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/UYDoE_AyJQs" # this is the link to the page the image came from 
 categories:
 - hope

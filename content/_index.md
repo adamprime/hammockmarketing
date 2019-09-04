@@ -1,6 +1,7 @@
 ---
 title: Hammock Marketing
-subtitle: "Subtract the digital, embrace the analog"
+subtitle: Analog Productivity
+
 ---
 ![Adam Tervort](/img/adam_400x400.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: "Recognizing Bias through Self Reflection"
-date: "2019-09-04"
+date: "2019-09-06"
 url: "/2019/09/recognizing-bias"
 description: "Examining our feelings can help us to understand where our comfort zone ends. That’s where our work begins. Self reflection is the first step to creating a more inclusive and vibrant team."
 tldr: "Examining our feelings can help us to understand where our comfort zone ends. That’s where our work begins. Self reflection is the first step to creating a more inclusive and vibrant team."
@@ -12,7 +12,7 @@ categories:
 - leadership
 tags: 
 - bias
-draft: "true" # change to false to publish
+draft: "false" # change to false to publish
 ---
 
 > “Your personal experiences make up maybe 0.00000001% of what’s happened in the world but maybe 80% of how you think the world works… We’re all biased to our own personal history.” - Morgan Housel  

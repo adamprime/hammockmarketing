@@ -6,7 +6,7 @@ buildFuture = true
 theme           = "story"
 languageCode    = "en-US"
 # disqusShortname = "hammock-marketing" #This isn't supported by the theme yet but I'm leaving here until it is.
-
+googleAnalytics = "UA-128042666-2"
 
 [[menu.social]]
   name = "Twitter"

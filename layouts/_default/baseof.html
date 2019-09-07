@@ -50,21 +50,7 @@
 		{{ with .Site.Params.head }}{{ range . }}
 		{{ . | safeHTML }}{{ end }}{{ end }}
 		<script src="{{ "js/story.js" | absURL }}"></script>
-		<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
-		<script>
-			(function(f, a, t, h, o, m){
-				a[h]=a[h]||function(){
-					(a[h].q=a[h].q||[]).push(arguments)
-				};
-				o=f.createElement('script'),
-				m=f.getElementsByTagName('script')[0];
-				o.async=1; o.src=t; o.id='fathom-script';
-				m.parentNode.insertBefore(o,m)
-			})(document, window, '//198.211.113.241/tracker.js', 'fathom');
-			fathom('set', 'siteId', 'UXJCP');
-			fathom('trackPageview');
-		</script>
-		<!-- / Fathom -->
+
 
 	</head>
 	<body class="ma0 bg-white {{ with .Section }}section-{{ . }}{{ end }} page-kind-{{ .Kind }} is-page-{{ .IsPage }} {{ with .Site.Params.classes }}{{ range . }} {{ . }}{{ end }}{{ end }}{{ with .Params.classes }}{{ range . }} {{ . }}{{ end }}{{ end }}">

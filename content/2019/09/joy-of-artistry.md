@@ -1,6 +1,6 @@
 ---
 title: "The Joy of Artistry"
-date: "2019-09-07"
+date: "2019-09-08"
 url: "/2019/09/joy-of-artistry"
 description: "Seeing the art made by a master in their field is inspiring and gives us hope that we too can strive and create something beautiful. A master jazz pianist reaffirmed this for me today."
 tldr: "Seeing the art made by a master in their field is inspiring and gives us hope that we too can strive and create something beautiful. A master jazz pianist reaffirmed this for me today."
@@ -14,7 +14,7 @@ categories:
 tags: 
 - jazz
 - piano
-draft: "true" # change to false to publish
+draft: "false" # change to false to publish
 ---
 
 Today I watched an amazing jazz pianist play in a way that filled me with joy. Yes, he was teaching a class full of young vocalists who don’t always hit the right notes or come in at the right time. This wasn’t a gala performance at the Kennedy Center. But his playing was both superb and infectious. It made me want to get out an instrument and practice! 

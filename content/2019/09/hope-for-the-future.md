@@ -1,6 +1,6 @@
 ---
 title: "Hope for the future"
-date: "2019-09-02"
+date: "2019-09-07"
 url: "/2019/09/hope-for-the-future"
 description: "While the outlook for our global environmental situation is dire, our last hope may be the children around us."
 tldr: "While the outlook for our global environmental situation is dire, our last hope may be the children around us."
@@ -14,7 +14,7 @@ categories:
 - leadership
 tags: 
 - recycling
-draft: "true" # change to false to publish
+draft: "false" # change to false to publish
 ---
 
 Today a child taught me there is hope. Our global environmental situation is a scary one. It’s easy to feel hopeless. 

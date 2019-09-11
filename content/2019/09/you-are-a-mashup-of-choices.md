@@ -1,6 +1,6 @@
 ---
 title: "You are a mashup of what you choose"
-date: "2019-09-07"
+date: "2019-09-11"
 url: "/2019/09/you-are-a-mashup-of-choices"
 description: "Most of the convenience our devices give us is garbage. I’ll never be bored enough to get the benefits of boredom if I’m never more than a moment away from more content."
 tldr: "Most of the convenience our devices give us is garbage. I’ll never be bored enough to get the benefits of boredom if I’m never more than a moment away from more content."
@@ -13,7 +13,7 @@ categories:
 tags: 
 - devices
 - context switching
-draft: "true" # change to false to publish
+draft: "false" # change to false to publish
 ---
 
 One of my favorite writers, [Austin Kleon](https://austinkleon.com/), wrote in his book *Steal Like an Artist* of how we are all mashups. From our genetics to our creative influences, we are the sum of many parts.
